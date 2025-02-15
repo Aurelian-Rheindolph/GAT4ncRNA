@@ -1,2 +1,2 @@
 # GAT4ncRNA
-GAT for ncRNA predication
+Predicting Functional Variants in Non-Coding RNA with Graph Attention Networks
